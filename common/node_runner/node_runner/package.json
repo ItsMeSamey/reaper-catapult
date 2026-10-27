@@ -40,7 +40,7 @@
     "chai": "^4.0.2",
     "dom5": "^1.0.0",
     "escodegen": "^1.11.0",
-    "eslint": "^4.0.0",
+    "eslint": "^10.13.0",
     "eslint-config-google": "^0.6.0",
     "eslint-plugin-html": "^4.0.0",
     "espree": "^3.0.0",
@@ -52,13 +52,13 @@
     "karma-sinon": "^1.0.5",
     "karma-sourcemap-loader": "^0.3.7",
     "karma-webpack": "5.0.1",
-    "mocha": "^5.2.0",
+    "mocha": "^12.0.3",
     "path": "^0.12.7",
-    "puppeteer": "^1.10.0",
+    "puppeteer": "^25.16.0",
     "redux": "^4.0.0",
     "sinon": "^7.2.3",
     "vulcanize": "^1.16.0",
-    "webpack": "^5.94.0",
+    "webpack": "^5.112.2",
     "polymer-bundler": "^4.0.10"
   }
 }
